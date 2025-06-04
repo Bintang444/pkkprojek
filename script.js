@@ -4,34 +4,41 @@ let totalHargaMakanan = 0;
 let food = [
     {
         name:`Rawon`,
-        stok: 2,
+        stok: 400,
         harga: 20000,
         image: './assets/images/rawon.jpg'
     },
     {
         name:`Soto Betawi`,
-        stok: 0,
-        harga: 60000,
+        stok: 500,
+        harga: 30000,
         image: './assets/images/sotobetawi.jpg'
     },
     {
         name:`Krupuk`,
-        stok: 12,
-        harga: 2500,
+        stok: 100,
+        harga: 500,
         image: './assets/images/kerupuk_putih.jpg'
     },
     {
         name:`Telur Asin`,
-        stok: 20,
-        harga: 70000,
+        stok: 200,
+        harga: 10000,
         image: './assets/images/telor_asin.jpg'
 
     },
     {
         name:`Es Teh Manis`,
-        stok: 25,
-        harga: 20000,
+        stok: 250,
+        harga: 5000,
         image: './assets/images/es_teh_manis.jpg'
+
+    },
+    {
+        name:`Air Mineral`,
+        stok: 250,
+        harga: 3000,
+        image: './assets/images/air.jpg'
 
     },
 ]
